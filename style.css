@@ -1,0 +1,118 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+    font-size: 75px;
+}
+main h1 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+main p {
+    color: white;
+    font-size: 30px;
+}
+
+.Musics {
+    text-align: center;
+    color: white;
+    font-size: 75px;
+}
+footer h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 65px;
+}
+footer p {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.Viber:hover {
+    transition: 0.1s ease-in-out;
+    width: 60px;
+ 
+
+}
+.Scratch:hover {
+    transition: 0.1s ease-in-out;
+    width: 60px;
+
+}
+.youtube:hover {
+    transition: 0.1s ease-in-out;
+    width: 60px;
+}
+
+
+
+
+
+.our_games:hover {
+  transition: 0.1s ease-in-out;
+    width: 120px;
+}
+.our_songs:hover {
+  transition: 0.1s ease-in-out;
+    width: 120px;
+}
+.our_social:hover{
+ transition: 0.1s ease-in-out;
+    width: 120px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 75px;
+}
+
+
+.game-card {
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 30px auto;
+    width: 550px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.15);
+    text-align: center;
+}
+
+.game-card h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.game-card h2 {
+    font-size: 22px;
+    margin-top: 15px;
+}
+
+.game-card ul {
+    text-align: left;
+    width: 80%;
+    margin: 10px auto;
+    font-size: 18px;
+}
+
+.game-card iframe {
+    border-radius: 15px;
+}
+.socialmediaofchipen {
+     background: #f4f4f4;
+    padding: 20px;
+    margin: 30px auto;
+    width: 550px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.15);
+    text-align: center;
+}
+}
